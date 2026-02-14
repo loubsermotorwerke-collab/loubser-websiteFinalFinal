@@ -1,0 +1,15 @@
+loubser-website/
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── public/
+│   ├── logo.png
+│   ├── product1.png
+│   ├── product2.png
+│   ├── product3.png
+│   ├── e12_build.png
+│   └── index.html
+└── src/
+    ├── App.jsx
+    ├── index.js
+    └── index.css
