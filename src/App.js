@@ -13,9 +13,13 @@ function App() {
         </div>
         <nav className="space-x-6 text-secondary">
           <a href="#home" className="hover:text-white">Home</a>
+    
           <a href="#shop" className="hover:text-white">Shop</a>
+    
           <a href="#projects" className="hover:text-white">Projects</a>
+    
           <a href="#about" className="hover:text-white">About</a>
+    
           <a href="#contact" className="hover:text-white">Contact</a>
         </nav>
       </header>
