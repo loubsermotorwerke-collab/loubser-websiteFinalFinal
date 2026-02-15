@@ -3,7 +3,7 @@ import './index.css';
 
 function App() {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-white text-black">
 
       {/* Header */}
       <header className="bg-primary p-4 flex justify-between items-center">
@@ -12,15 +12,15 @@ function App() {
           <h1 className="text-2xl font-cursive tracking-wide">Loubser Motorwerke</h1>
         </div>
         <nav className="space-x-6 text-secondary">
-          <a href="#home" className="hover:text-white">Home</a>
+          <h2 href="#Home" className="hover:text-white">Home</a>
     
-          <a href="#shop" className="hover:text-white">Shop</a>
+          <h3 href="#Shop" className="hover:text-white">Shop</a>
     
-          <a href="#projects" className="hover:text-white">Projects</a>
+          <h4 href="#Projects" className="hover:text-white">Projects</a>
     
-          <a href="#about" className="hover:text-white">About</a>
+          <h5 href="#About" className="hover:text-white">About</a>
     
-          <a href="#contact" className="hover:text-white">Contact</a>
+          <h6 href="#Contact us" className="hover:text-white">Contact</a>
         </nav>
       </header>
 
