@@ -12,15 +12,15 @@ function App() {
           <h1 className="text-2xl font-cursive tracking-wide">Loubser Motorwerke</h1>
         </div>
         <nav className="space-x-6 text-secondary">
-          <h2 href="#Home" className="hover:text-white">Home</a>
+          <h2 href="#Home" className="hover:text-white">Home</h2>
     
-          <h3 href="#Shop" className="hover:text-white">Shop</a>
+          <h3 href="#Shop" className="hover:text-white">Shop</h3>
     
-          <h4 href="#Projects" className="hover:text-white">Projects</a>
+          <h4 href="#Projects" className="hover:text-white">Projects</h4>
     
-          <h5 href="#About" className="hover:text-white">About</a>
+          <h5 href="#About" className="hover:text-white">About</h5>
     
-          <h6 href="#Contact us" className="hover:text-white">Contact</a>
+          <h6 href="#Contact us" className="hover:text-white">Contact</h6>
         </nav>
       </header>
 
